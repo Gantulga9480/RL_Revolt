@@ -1,0 +1,9 @@
+certifi==2021.10.8
+keyboard==0.13.5
+numpy==1.22.3
+opencv-python==4.5.5.64
+pygame==2.1.2
+pywin32==302
+wincertstore==0.2
+pytesseract==0.3.9
+tensorflow-gpu==2.6.3
